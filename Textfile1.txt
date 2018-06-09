@@ -1,3 +1,8 @@
 Hello World
+<<<<<<< HEAD
 This is a second line for the test.
 Clone 1 adding a line
+=======
+Clone 2 adding a line here.
+This is a second line for the test.
+>>>>>>> ff7437424254d1f79e67277c6da96f2a633f09e0
