@@ -1,2 +1,3 @@
 Hello World
 This is a second line for the test.
+Clone 1 adding a line
